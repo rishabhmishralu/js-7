@@ -1,0 +1,20 @@
+h1,h2{
+    text-align: center;
+    color: aliceblue;
+}
+b{
+    margin-left: 40px;
+    color: brown;
+}
+body{
+    background-color: black;
+  
+}
+pre{
+    margin-left: 200px;
+    color: aliceblue;
+}
+p{
+    margin-left: 40px;
+    color: bisque;
+}
